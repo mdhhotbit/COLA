@@ -15,5 +15,5 @@ indent_size = 4
 indent_size = 2
 
 [*.{md,mkd,markdown}]
-indent_size = 4hnn
+indent_size = 4hnnffnn
 trim_trailing_whitespace = false
